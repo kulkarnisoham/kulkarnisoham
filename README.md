@@ -1,4 +1,4 @@
-<!-- Profile Header -->
+[<!-- Profile Header -->
 <h1 align="center">✨ Soham Kulkarni ✨</h1>
 <h3 align="center">🧠 AI Engineer • 🌐 Full-Stack Developer • 🛂 H1B Sponsorship Ready</h3>
 
@@ -134,3 +134,4 @@
 
 > _“Code is the new poetry, and I’m writing symphonies in Python, JavaScript, and TensorFlow.”_  
 > Let’s create something awesome together 💥
+](https://github.com/kulkarnisoham/kulkarnisoham/edit/master/README.md)
